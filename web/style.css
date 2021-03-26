@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-color: #f7e0ff;
+    font-family: tahoma;
+    justify-content: center
+}
+
+h1{
+    margin-bottom: 50px
+}
+
+label{
+    margin: 5px;
+}
+
+input{
+    margin: 5px;
+}
+
+input[type="submit" ]{
+    background-color: transparent;
+    border-radius: 3px;
+    border: 1px solid black;
+}
